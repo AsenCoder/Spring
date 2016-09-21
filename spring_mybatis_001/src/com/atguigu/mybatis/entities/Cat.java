@@ -29,4 +29,8 @@ public class Cat {
 	public void catched(){
 		//捉住了一只老鼠
 	}
+	//这是一只神奇的猫，会飞
+	public void fly(){
+		//飞起来了！
+	}
 }
