@@ -37,4 +37,5 @@ public class Cat {
 	public void bbb(){
 		
 	}
+	public void ddd(){}
 }
