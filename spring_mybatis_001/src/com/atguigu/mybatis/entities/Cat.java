@@ -38,4 +38,5 @@ public class Cat {
 		
 	}
 	public void ccc(){}
+	public void ddd(){}
 }
