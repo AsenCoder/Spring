@@ -33,4 +33,8 @@ public class Cat {
 	public void fly(int m){
 		//飞起来了！
 	}
+	
+	public void aaaa(){
+	
+	}
 }
