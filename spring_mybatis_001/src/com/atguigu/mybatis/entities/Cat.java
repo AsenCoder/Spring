@@ -20,4 +20,9 @@ public class Cat {
 		
 		run();
 	}
+	
+	public void fly(){
+		
+		System.out.println("i wang to fly!");	
+	}
 }
