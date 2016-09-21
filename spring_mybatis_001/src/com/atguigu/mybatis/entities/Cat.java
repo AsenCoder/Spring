@@ -11,4 +11,8 @@ public class Cat {
 		
 		System.out.println("faster...!");
 	}
+	public void run(String str){
+		
+		System.out.println("very faster.......!");
+	}
 }
