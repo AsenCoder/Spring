@@ -15,4 +15,9 @@ public class Cat {
 		
 		System.out.println("very faster.......!");
 	}
+	
+	public void eat(){
+		
+		run();
+	}
 }
