@@ -25,4 +25,8 @@ public class Cat {
 		
 		System.out.println("i wang to fly!");	
 	}
+	// cat 是一种会抓老鼠的动物
+	public void catched(){
+		//捉住了一只老鼠
+	}
 }
