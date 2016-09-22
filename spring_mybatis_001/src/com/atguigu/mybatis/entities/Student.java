@@ -6,4 +6,5 @@ public class Student {
 	String name;
 	
 	String gender;
+	public void say(){};
 }
